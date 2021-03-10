@@ -24,8 +24,6 @@ Dudley gemuk dan benci olahraga—
 Paragraf 6
 "Dalam kecelakaan waktu orangtuamu meninggal," katanya.
 
-<<<<<<< HEAD
-=======
 
 
->>>>>>> af4b62566674a8f5a9950837ed1db25e1caa87f9
+
